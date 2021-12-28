@@ -32,7 +32,8 @@ The **Catalyst Fund** and **ACP** both measure Metric Tons of CO2e avoided (tCO2
 *We apply an attribution adjustment for pro rata share of public funding as per all KPIs.*
 
 #### KPI 7: Level of installed capacity (MW)
-KPI 7 measures the increased clean energy capacity resulting from ICF funding. Installed capacity is the rated power output of electrical power (MWe) or thermal power (MWt) in operation. Attribution adjustments are applied by CPI.  Clean energy is low and zero carbon energy generation. Sources include but are not limited to: wind power, solar, fuel cells, tidal systems, hydropower, Carbon Capture & Storage (CCS), second generation biofuels, gasification technologies, clean cook stoves, biomass and boilers and kilns for process heating/dying. Nuclear is not included.  Installed capacity must be reported by CF and ACP as an annual cumulative total and disaggregated by whether the installed capacity is grid-connected or off-grid and installed in urban or rural areas where possible.
+KPI 7 measures the increased clean energy capacity resulting from ICF funding. Installed capacity is the rated power output of electrical power (MWe) or thermal power (MWt) in operation. Attribution adjustments are applied by CPI.  
+Clean energy is low and zero carbon energy generation. Sources include but are not limited to: wind power, solar, fuel cells, tidal systems, hydropower, Carbon Capture & Storage (CCS), second generation biofuels, gasification technologies, clean cook stoves, biomass and boilers and kilns for process heating/dying. Nuclear is not included.  Installed capacity must be reported by **CF** and **ACP** as an annual cumulative total and disaggregated by whether the installed capacity is grid-connected or off-grid and installed in urban or rural areas where possible.
 
 *We apply an attribution adjustment for pro rata share of public funding as per all KPIs.*
 
