@@ -6,9 +6,13 @@
 ICF reporting requires adjusting results for attribution - enabling HMG to claim a share of results. 
 * Original modifiers were decided in 2014 and are equal to the share of public investment by HMG in CF and ACP. 
 * Methodological guidane from the International Climate Fund (ICF) calls for projects to attribute at the point closest to production of results. 
-* HMG issued guidance across all ICF programs to seek to attribute at the lowest level possible, but recognizing the complexitity that this may entail, it was reccomended that programs attribute at the level of HMG investment.
 
-### Sub-fund attribution approach
+CP3 is a multi-tiered investment vehicle with three tiers for the purposes of attributon. Each tier represents a distinct investment and ownership structure:
+1. Fund of funds level (Catalyst Fund)
+2. Investment fund level (Catalyt Fund investeed funds and ACP)
+3. Project or company level (indvidual investments and ACP)
+
+### Tier 2 attribution: Sub-fund attribution approach
 * The M&E providers developed a methodology and collected data to apply sub-fund level attribution to CP3 results, providing a more direct attribution approach. 
 * This approach maintians the same logic where reuslts are attributed proportionally by investment amount. Applying a sub-fund attribution methodology allowed the M&E team to identify leaders and laggards at the fund level, e.g. some funds contribute more to GHG emissions reductions than others due to the makeup of their portfolios. 
 ![image](https://user-images.githubusercontent.com/96526387/147655793-e2c7b600-d158-4d01-b1cd-e91d615b8df0.png)
@@ -16,6 +20,22 @@ ICF reporting requires adjusting results for attribution - enabling HMG to claim
 * A key consideration was that a large number of public finance providers are participating in private equity sub-funds. This was a key factor driving down attributed results when the methodology was implemented. Only public investors that report climate finance to OECD are counted in the attribution calculation. In other, words, HMG splits results only with public climate finance donors and not with all other public investors. This reduces the risk of double-counting results. 
 
 However, assigining attribution ex-post is fraught with challenges. Wherever possible, it is preferable for attribution approaches to be discussed and decided upon by impact investors in advance as part of the due diligence and negotiation phase of projects. 
+
+### Tier 3 attribution: Project-level attribution approach
+* The M&E team have gone through an extensive data collection effort that have made possible calculating attribution at the project level. Prior to this, doing so was impractical as the CP3 portfolio contains over 110 individual investments, which due to the investment fund structures did not make reporting available to the evaluation team. Furthermore, attribution is normally based on the percentage of financial participation in an investment and financial participation as expressed by ownership shares was also not available in previous cycles. 
+* This new approach uses the same logic as previous approaches but instead of considering financial participation at the fund level, it considers it at the project level.
+
+The formula for determining attributed results is:
+```
+project level results * ownership share of company or project (%) * UK ownership share of investment fund (%)
+```
+
+Because there is an additional level of attribution, attributed results naturally decrease with this methodology. There is another layer of ownership and therefore more entities to split results.
+* The change in results is not the same for all KPIs because this depends on which types of companies produce results. GHG emissions are reduced the most because these stem from large clean energy projects where funds have smaller ownership shares. 
+* We also observe that results can skew significantly. In previous results reporting we had noted that some large companies contribute a large share of results. For example, 46% of the CP3 renewable energy portfolio is owned by just one company – Panda Green, an investment by ACP. Because this is a very large company, ownership stakes are small. The ACP stake in Panda Green is only 2%
+
+Ownership stakes vary widely in the portfolio as shown in the table below:
+![image](https://user-images.githubusercontent.com/96526387/147659920-aec9888f-8ead-4f10-8e92-c799c3d8f966.png)
 
 
 ## Additionality
