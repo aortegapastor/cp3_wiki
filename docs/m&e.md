@@ -50,4 +50,4 @@ Both **CF** and **ACP** report on USD$ Legally Committed. Foreign exchange conve
 *Attribution adjustments considering the pro-rata share of funding are applied by CPI. No adjustment will be made on the riskiness of the investments for data reporting although this will be considered as part of the overall narrative of mobilisation of finance and transformational change.*
 
 ## Related documents
-* [limate Public Partnership (CP3) Key Performance Indicators (KPI) Methods Review (2021)](https://www.dropbox.com/s/4zsu1smmqrbk14d/OFFICIAL%20CP3%20KPI%20Methods%20Review%20Final%20unpublished.docx?dl=0)
+* [Climate Public Partnership (CP3) Key Performance Indicators (KPI) Methods Review (2021)](https://www.dropbox.com/s/4zsu1smmqrbk14d/OFFICIAL%20CP3%20KPI%20Methods%20Review%20Final%20unpublished.docx?dl=0)
