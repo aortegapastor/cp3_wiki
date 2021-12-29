@@ -50,9 +50,9 @@ The additionality approach uses the investment environment in a country as the s
 Data is based on the Venutre Capital & Private Equity Country Attractiveness (VCPE) Index created by IESE Business School and published annually. The index is a very strong indicator of the likelihood of private equity investment in a given country. 
 The VCPE Index rates countries from 0 (weak investment environment) to 100 (strong investment environment). In turn, additionality scores are assigned as follows:
 ```
-* Scores below 45 = 100% additional investment
-* Scores above 75 = 0% additional investment
-* Scores between 45 and 75 = ((75 - Country score)/30) additional investment
+Scores below 45 = 100% additional investment
+Scores above 75 = 0% additional investment
+Scores between 45 and 75 = ((75 - Country score)/30) additional investment
 ```
 
 **We define an additional investment as one that is not likely under a BAU scenario. Therefore, investment in countries with low VCPE indicate a higher likelihood of additionality. **
@@ -62,7 +62,7 @@ The VCPE Index rates countries from 0 (weak investment environment) to 100 (stro
 * We have observed the same relationship between a country additionality score and the likelihood of private investment as what has been shown in published research.
 ![image](https://user-images.githubusercontent.com/96526387/147658993-4ea730f7-febb-4f26-9e2d-8aced53b7270.png)
 * Climatescope and VCPE both show that the domestic enabling environment is the main driver unlocking private finance, even when incorporating sector-specific factors
-* ![image](https://user-images.githubusercontent.com/96526387/147659027-3ba1aa5f-b2cb-4b94-bab9-0ac11cd144fb.png)
+![image](https://user-images.githubusercontent.com/96526387/147659027-3ba1aa5f-b2cb-4b94-bab9-0ac11cd144fb.png)
 
 
 **Limitations of this approach:** 
