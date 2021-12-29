@@ -72,7 +72,7 @@ Scores between 45 and 75 = ((75 - Country score)/30) additional investment
 * Due to current fund reporitng (funds provided aggregate results), we have not been able to apply additionality at the project level for non-financial KPIs. Additionality is applied at the project level for financial KPIs (KPI 11 and 12). 
 * We use a weighted average additionality modifier based on investment amounts per country to derive a methodology for all non-financial KPIs in each of the main funds (CF and ACP)
 
-*See [KPIs](docs/m&e.md)
+*See [KPIs](docs/m&e.md)*
 
 ## IRR
 *TK*
