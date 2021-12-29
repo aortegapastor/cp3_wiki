@@ -35,8 +35,7 @@ Because there is an additional level of attribution, attributed results naturall
 * We also observe that results can skew significantly. In previous results reporting we had noted that some large companies contribute a large share of results. For example, 46% of the CP3 renewable energy portfolio is owned by just one company – Panda Green, an investment by ACP. Because this is a very large company, ownership stakes are small. The ACP stake in Panda Green is only 2%
 
 Ownership stakes vary widely in the portfolio as shown in the table below:
-![image](https://user-images.githubusercontent.com/96526387/147659920-aec9888f-8ead-4f10-8e92-c799c3d8f966.png)
-
+![image](https://user-images.githubusercontent.com/96526387/147660215-8294fa00-554a-4592-a5db-8b95a28b1997.png)
 
 ## Additionality
 
