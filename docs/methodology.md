@@ -19,7 +19,7 @@ CP3 is a multi-tiered investment vehicle with three tiers for the purposes of at
 
 * A key consideration was that a large number of public finance providers are participating in private equity sub-funds. This was a key factor driving down attributed results when the methodology was implemented. Only public investors that report climate finance to OECD are counted in the attribution calculation. In other, words, HMG splits results only with public climate finance donors and not with all other public investors. This reduces the risk of double-counting results. 
 
-However, assigining attribution ex-post is fraught with challenges. Wherever possible, it is preferable for attribution approaches to be discussed and decided upon by impact investors in advance as part of the due diligence and negotiation phase of projects. 
+However, assigning attribution ex-post is fraught with challenges. Wherever possible, it is preferable for attribution approaches to be discussed and decided upon by impact investors in advance as part of the due diligence and negotiation phase of projects. 
 
 ### Tier 3 attribution: Project-level attribution approach
 * The M&E team have gone through an extensive data collection effort that have made possible calculating attribution at the project level. Prior to this, doing so was impractical as the CP3 portfolio contains over 110 individual investments, which due to the investment fund structures did not make reporting available to the evaluation team. Furthermore, attribution is normally based on the percentage of financial participation in an investment and financial participation as expressed by ownership shares was also not available in previous cycles. 
