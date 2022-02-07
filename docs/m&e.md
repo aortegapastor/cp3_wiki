@@ -49,5 +49,30 @@ Both **CF** and **ACP** report on USD$ Legally Committed. Foreign exchange conve
 
 *Attribution adjustments considering the pro-rata share of funding are applied by CPI. No adjustment will be made on the riskiness of the investments for data reporting although this will be considered as part of the overall narrative of mobilisation of finance and transformational change.*
 
+## CP3 Phase II Evaluation Questions
+
+* EQ1 Relevance: Are CP3 activities suited to supporting LCCR investment in emerging markets as set out in the business case? 
+  * EQ1.1 Are the investments/funds selected appropriate for meeting the LCCR needs of developing countries and aligned to global climate objectives?
+  * EQ1.2 Was the CP3 vehicle and the selected CP3 investments appropriate and relevant to crowd in private finance within the emerging markets targeted by CP3? Why/why not?  
+  * EQ1.3 Has the programme implementation and investment selection taken into consideration market and national contexts in a way that is consistent with CP3’s programme goal and intended impacts?
+* EQ2 Coherence: How well does the intervention fit?  Is CP3 complementary internally as well as to other initiatives (including ICF investments)? 
+  * EQ2.1
+  * EQ2.2 External: Is CP3 complementary and synergistic, or contradictory and duplicative, with other similar initiatives (including other ICF initiatives)?
+  * EQ2.3 To what extent did CP3 investments encourage LCCR activities that would not have occurred otherwise?
+* EQ3 Effectiveness: To what extent were the objectives achieved / are likely to be achieved? What were the major factors influencing the achievement or non-achievement of the objectives?
+  * EQ3.1 What have been the results of the CP3 fund and sub-fund investments and are they in line with the objectives in the CP3 theory of change?
+* EQ4
+* EQ5 Impact: What has happened as a result of the programme? Have the programme generated results that are likely to contribute to  transformational change and is there evidence that transformational change has occurred?  
+  * EQ5.1 Are investments likely to increase jobs, generate development co-benefits and reduce carbon emissions?
+  * EQ5.2 Is CP3 leveraging additional public and private finance for LCCR investment? 
+  * EQ5.3 Has CP3 generated demonstration effects that have catalysed, or are expected to catalyse, additional investment from institutional investors for LCCR in developing countries? 
+  * EQ5.4 Did CP3 contribute to transformational change in the countries and markets targeted? 
+EQ6 Sustainability: Are CP3 results sustainable?
+* EQ6 Sustainability: Are CP3 results sustainable?
+  * EQ6.1
+  * EQ6.2 Has CP3 contributed to technical capacity in LCCR investment that will sustain further climate investments in the countries and sectors in question?    
+  * EQ6.3 To what extent has CP3 supported mainstreaming of ESG standards?
+
+
 ## Related documents
 * [Climate Public Partnership (CP3) Key Performance Indicators (KPI) Methods Review (2021)](https://www.dropbox.com/s/4zsu1smmqrbk14d/OFFICIAL%20CP3%20KPI%20Methods%20Review%20Final%20unpublished.docx?dl=0)
