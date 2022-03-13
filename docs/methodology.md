@@ -27,7 +27,7 @@ However, assigning attribution ex-post is fraught with challenges. Wherever poss
 
 The formula for determining attributed results is:
 ```
-project level results * ownership share of company or project (%) * UK ownership share of investment fund (%)
+project level results = ownership share of company or project (%) * UK ownership share of investment fund (%)
 ```
 
 Because there is an additional level of attribution, attributed results naturally decrease with this methodology. There is another layer of ownership and therefore more entities to split results.
